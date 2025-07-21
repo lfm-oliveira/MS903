@@ -1,0 +1,7 @@
+Valor da Funcao: 17.996787; Norma do Gradiente: 16.240018; t: 0.250000; k: 1
+2.808596Valor da Funcao: 17.996787; Norma do Gradiente: 16.240018; t: 0.000000; k: 2
+0.000000Valor da Funcao: 17.996787; Norma do Gradiente: 16.240018; t: 0.000000; k: 3
+0.000000Valor da Funcao: 17.996787; Norma do Gradiente: 16.240018; t: 0.000000; k: 4
+0.000000Valor da Funcao: -nan; Norma do Gradiente: 0.000000; t: -nan; k: 5
+x: [ -nan -nan -nan ]
+Elapsed time: 0.851638 seconds

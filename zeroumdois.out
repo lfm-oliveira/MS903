@@ -1,0 +1,27 @@
+Valor da Funcao: 4.088187e-01; Norma do Gradiente: 7.933778e-02; t: 1.280000e+02; k: 1
+Valor da Funcao: 2.423238e-01; Norma do Gradiente: 5.734152e-02; t: 4.696830e+01; k: 2
+Valor da Funcao: 2.228831e-01; Norma do Gradiente: 4.394847e-02; t: 2.741011e+01; k: 3
+Valor da Funcao: 2.214745e-01; Norma do Gradiente: 4.664589e-02; t: 9.809329e+00; k: 4
+Valor da Funcao: 2.199040e-01; Norma do Gradiente: 1.379157e-02; t: 5.583769e+00; k: 5
+Valor da Funcao: 2.190784e-01; Norma do Gradiente: 1.215479e-02; t: 4.678055e+00; k: 6
+Valor da Funcao: 2.187732e-01; Norma do Gradiente: 1.607667e-02; t: 2.336860e+00; k: 7
+Valor da Funcao: 2.184891e-01; Norma do Gradiente: 9.494343e-03; t: 1.303990e+00; k: 8
+Valor da Funcao: 2.183647e-01; Norma do Gradiente: 1.288421e-02; t: 2.034713e+00; k: 9
+Valor da Funcao: 2.182485e-01; Norma do Gradiente: 7.493423e-03; t: 1.231044e+00; k: 10
+Valor da Funcao: 2.181940e-01; Norma do Gradiente: 7.639128e-03; t: 2.002718e+00; k: 11
+Valor da Funcao: 2.181609e-01; Norma do Gradiente: 3.651293e-03; t: 1.294567e+00; k: 12
+Valor da Funcao: 2.181569e-01; Norma do Gradiente: 3.986494e-03; t: 1.930358e+00; k: 13
+Valor da Funcao: 2.181474e-01; Norma do Gradiente: 8.047281e-04; t: 1.014573e+00; k: 14
+Valor da Funcao: 2.181468e-01; Norma do Gradiente: 7.200945e-04; t: 1.802211e+00; k: 15
+Valor da Funcao: 2.181465e-01; Norma do Gradiente: 2.823801e-04; t: 1.203033e+00; k: 16
+Valor da Funcao: 2.181464e-01; Norma do Gradiente: 3.105432e-04; t: 1.897163e+00; k: 17
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 8.196640e-05; t: 1.088478e+00; k: 18
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 8.846896e-05; t: 1.816558e+00; k: 19
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 3.368721e-05; t: 1.156925e+00; k: 20
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 3.431927e-05; t: 1.893781e+00; k: 21
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 1.392436e-05; t: 1.186990e+00; k: 22
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 1.478574e-05; t: 1.888481e+00; k: 23
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 5.956712e-06; t: 1.133746e+00; k: 24
+x: [ 1.059609 2.422534 6.142752 ]
+Elapsed time: 0.008773 seconds
+Erro no teste: 0.248733; Gradiente no teste: 0.001507

@@ -1,0 +1,23 @@
+Valor da Funcao: 4.193475e-01; Norma do Gradiente: 9.073575e-02; t: 2.560000e+02; k: 1
+Valor da Funcao: 3.311752e-01; Norma do Gradiente: 8.418078e-02; t: 1.928833e+01; k: 2
+Valor da Funcao: 3.100542e-01; Norma do Gradiente: 7.348302e-02; t: 2.402123e+01; k: 3
+Valor da Funcao: 3.087875e-01; Norma do Gradiente: 6.948223e-02; t: 3.241935e+01; k: 4
+Valor da Funcao: 2.866597e-01; Norma do Gradiente: 7.303196e-02; t: 3.612053e+01; k: 5
+Valor da Funcao: 2.272398e-01; Norma do Gradiente: 5.544371e-02; t: 1.813161e+01; k: 6
+Valor da Funcao: 2.271048e-01; Norma do Gradiente: 4.109700e-02; t: 5.412876e+00; k: 7
+Valor da Funcao: 2.205540e-01; Norma do Gradiente: 3.062225e-02; t: 1.569761e+01; k: 8
+Valor da Funcao: 2.203869e-01; Norma do Gradiente: 2.457622e-02; t: 5.238482e+00; k: 9
+Valor da Funcao: 2.190083e-01; Norma do Gradiente: 2.116418e-02; t: 2.973062e+00; k: 10
+Valor da Funcao: 2.184823e-01; Norma do Gradiente: 1.419984e-02; t: 1.655742e+00; k: 11
+Valor da Funcao: 2.184604e-01; Norma do Gradiente: 1.849757e-02; t: 2.222122e+00; k: 12
+Valor da Funcao: 2.181746e-01; Norma do Gradiente: 3.406833e-03; t: 1.104259e+00; k: 13
+Valor da Funcao: 2.181678e-01; Norma do Gradiente: 4.846567e-03; t: 4.221077e+00; k: 14
+Valor da Funcao: 2.181469e-01; Norma do Gradiente: 4.659194e-04; t: 9.083841e-01; k: 15
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 1.132620e-04; t: 3.677377e+00; k: 16
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 1.235991e-04; t: 1.752281e+00; k: 17
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 3.222067e-05; t: 9.445114e-01; k: 18
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 3.503677e-05; t: 3.564641e+00; k: 19
+Valor da Funcao: 2.181463e-01; Norma do Gradiente: 5.139699e-06; t: 9.552340e-01; k: 20
+x: [ 1.059614 2.422538 6.142750 ]
+Elapsed time: 0.006195 seconds
+Erro no teste: 0.248733; Gradiente no teste: 0.001510

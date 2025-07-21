@@ -1,0 +1,34 @@
+#F(x): 12.430900; Norma de x: 0.646827, lambda: 10.000000
+#F(x): 11.777540; Norma de x: 0.671937, lambda: 1.000000
+#F(x): 11.540418; Norma de x: 0.952538, lambda: 0.100000
+#F(x): 2.688350; Norma de x: 73.222550, lambda: 0.010000
+#F(x): 19.390607; Norma de x: 5649.100407, lambda: 0.001000
+#F(x): 11.895888; Norma de x: 1247.687673, lambda: 0.000100
+#F(x): 12.936731; Norma de x: 1403.006479, lambda: 0.000000
+
+
+#F(x): 12.430900; Norma de x: 0.646827, lambda: 10.000000
+#F(x): 11.777541; Norma de x: 0.671937, lambda: 1.000000
+#F(x): 11.540421; Norma de x: 0.952532, lambda: 0.100000
+#F(x): 6.319663; Norma de x: 35.778954, lambda: 0.010000
+#F(x): 11.928792; Norma de x: 1117.910465, lambda: 0.001000
+#F(x): 4.975751; Norma de x: 57.133134, lambda: 0.000100
+#F(x): 9.548646; Norma de x: 1582.434653, lambda: 0.000000
+
+#F(x): 12.430900; Norma de x: 0.646827, lambda: 10.000000
+#F(x): 11.777325; Norma de x: 0.671963, lambda: 1.000000
+#F(x): 11.540466; Norma de x: 0.951913, lambda: 0.100000
+#F(x): 1.891003; Norma de x: 89.786722, lambda: 0.010000
+#F(x): 6.643742; Norma de x: 37.197789, lambda: 0.001000
+#F(x): 15.656589; Norma de x: 1110.611427, lambda: 0.000100
+#F(x): 19.322425; Norma de x: 9461840.739878, lambda: 0.000000
+
+
+F(x): 12.430882; Norma de x: 0.646828, lambda: 100.000000
+F(x): 11.777539; Norma de x: 0.671937, lambda: 10.000000
+F(x): 11.540429; Norma de x: 0.952517, lambda: 1.000000
+F(x): 9.493015; Norma de x: 10.026228, lambda: 0.100000
+F(x): 4.598253; Norma de x: 56.515316, lambda: 0.010000
+F(x): 8.653388; Norma de x: 18.025584, lambda: 0.001000
+F(x): 28.235058; Norma de x: 34593.093018, lambda: 0.000000
+
